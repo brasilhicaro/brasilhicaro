@@ -4,7 +4,8 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&center=true&width=380&height=45">
 </p
 
-![Hicaro GitHub stats](https://github-readme-stats.vercel.app/api?username=brasilhicaro&theme=noctis_minimus&show_icons=true)
+
+![Hicaro GitHub stats](https://github-readme-stats.vercel.app/api?username=brasilhicaro&theme=noctis_minimus&show_icons=true) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brasilhicaro&theme=noctis_minimus&layout=compact)](https://github.com/brasilhicaro/github-readme-stats)
 
 <div>
