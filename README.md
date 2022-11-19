@@ -3,17 +3,25 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&center=true&width=380&height=45">
 </p
 
-[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hicaro-brasil-045548220/)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hicaro.brasil@academico.ifpb.edu.br)
-<p align="left">
-
 <div>
-    <img align="right" width="250" src="./img/programming.gif" />
-</div>
-  <a href="https://github.com/brasilhicaro">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/brasilhicaro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me"/></a>
-</p>
+<a href="https://github.com/brasilhicaro">
+<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/brasilhicaro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me"/>
+</a>
 
+### :reminder_ribbon: Contact:
+<p>
+<a href="https://www.linkedin.com/in/hicaro-brasil-045548220/" alt="Linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/hicaro-brasil-045548220/"/>
+</a>
+
+<a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=hicaro.brasil@academico.ifpb.edu.br" alt="Email" target="_blank">
+
+  <img src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFFF&link=https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=hicaro.brasil@academico.ifpb.edu.br">
+</a>
+</p>
+</div>
+ 
+<p align="left">
 
 ## Tecnologias que possuo conhecimento:
 
