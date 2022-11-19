@@ -5,13 +5,14 @@
 
 <div>
 <p align = "center">
-<a href="https://github.com/brasilhicaro" align="center">
-<img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/brasilhicaro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me"/>
-</a>
+  <a href="https://github.com/brasilhicaro" align="center">
+  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/brasilhicaro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me"/>
+  </a>
 </p>
 
 ### :reminder_ribbon: Contact:
 <p>
+  <img align="right" width="250" src="./img/programming.gif" />
 <a href="https://www.linkedin.com/in/hicaro-brasil-045548220/" alt="Linkedin" target="_blank">
   <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/hicaro-brasil-045548220/"/>
 </a>
