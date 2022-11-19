@@ -31,7 +31,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=brasilhicaro&&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true" alt="Github Readme Stats" widht="250" height="180">
     </a>
     <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brasilhicaro&theme=noctis_minimus&layout=compact&langs_count=16" alt="Top Languages" widht="250" height="180">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brasilhicaro&theme=noctis_minimus&layout=compact&langs_count=16" alt="Top Languages" widht="220" height="180">
     </a>
   </p>
 </details>
