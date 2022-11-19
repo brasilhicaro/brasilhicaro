@@ -4,9 +4,16 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!&center=true&width=380&height=45">
 </p
 
+<<<<<<< Updated upstream
 
 ![Hicaro GitHub stats](https://github-readme-stats.vercel.app/api?username=brasilhicaro&theme=noctis_minimus&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brasilhicaro&theme=noctis_minimus&layout=compact)](https://github.com/brasilhicaro/github-readme-stats)
+=======
+<p align = "center">
+![Hicaro GitHub stats](https://github-readme-stats.vercel.app/api?username=brasilhicaro&theme=noctis_minimus&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brasilhicaro&theme=noctis_minimus&layout=compact)](https://github.com/brasilhicaro/github-readme-stats)
+</p>
+>>>>>>> Stashed changes
 
 <div>
     <img align="right" width="250" src="./img/programming.gif" />
@@ -29,6 +36,10 @@
     <img align="center" alt = "python" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
     />
 </div>
+<<<<<<< Updated upstream
 
 ![Snake gif](https://github.com/brasilhicaro/brasilhicaro/blob/output/github-contribution-grid-snake.svg)
+=======
+>>>>>>> Stashed changes
 
+![Snake animation](https://github.com/brasilhicaro/brasilhicaro/blob/output/github-contribution-grid-snake.svg)
