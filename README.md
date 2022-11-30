@@ -6,7 +6,7 @@
 <div>
 <p align = "center">
   <a href="https://github.com/brasilhicaro" align="center">
-  <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/brasilhicaro?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow%20me"/>
+  <img alt="GitHub followers" src="https://img.shields.io/github/followers/brasilhicaro?label=FOLLOW%20ME&logoColor=Dark%20blue&style=for-the-badge">
   </a>
 </p>
 
