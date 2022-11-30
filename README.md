@@ -4,11 +4,6 @@
 </p>
 
 <div>
-<p align = "center">
-  <a>
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/brasilhicaro?label=FOLLOW%20ME&logoColor=Dark%20blue&style=for-the-badge">
-  </a>
-</p>
 
 ### :reminder_ribbon: Contact:
 <p>
