@@ -38,9 +38,9 @@
   <summary>💻 GitHub Profile Stats</summary>
   <a href="https://github.com/brasilhicaro">
     
-    <img width="42%" src="link"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=brasilhicaro&&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true">
+    <img width="42%" src="link"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=brasilhicaro&&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
 
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brasilhicaro&theme=noctis_minimus&layout=compact&langs_count=16" alt="Top Languages">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brasilhicaro&theme=noctis_minimus&layout=compact&langs_count=16" alt="Top Languages"/>
   </a>
 
 </details>
