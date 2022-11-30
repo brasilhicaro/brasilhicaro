@@ -33,10 +33,10 @@
     <img align="center" alt = "python" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
     />
 </div>
-<details align="center"> 
+<details> 
     <summary>💻 GitHub Profile Stats</summary>
       <a href= "https://github.com/brasilhicaro">
-      <img width="50%" src="https://github-readme-stats.vercel.app/api?username=brasilhicaro&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
+      <img width="42%" src="https://github-readme-stats.vercel.app/api?username=brasilhicaro&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true"/>
 
       <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brasilhicaro&layout=compact&langs_count=7&theme=noctis_minimus"/>
     </a>
