@@ -35,15 +35,13 @@
 </div>
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
-  <br/>
- 
   <a>
     <img width="42%" src="link"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=brasilhicaro&&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true">
-    </a>
-    <a>
+  </a>
+  <a>
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brasilhicaro&theme=noctis_minimus&layout=compact&langs_count=16" alt="Top Languages">
-    </a>
- 
+  </a>
+
 </details>
 
 ![Snake gif](https://github.com/brasilhicaro/brasilhicaro/blob/output/github-contribution-grid-snake.svg)
