@@ -33,7 +33,9 @@
     <img align="center" alt = "python" src= "https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
     />
 </div>
-##
+<p>
+  ##
+</p>
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <a href= "https://github.com/brasilhicaro">
