@@ -34,7 +34,7 @@
     />
 </div>
 <p>
-  ##
+
 </p>
 <details> 
   <summary>💻 GitHub Profile Stats</summary>
