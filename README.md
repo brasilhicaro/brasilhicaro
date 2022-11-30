@@ -34,8 +34,10 @@
     />
 </div>
 <details> 
+  
   <summary>💻 GitHub Profile Stats</summary>
-  <a>
+  <a href="https://github.com/brasilhicaro">
+    
     <img width="42%" src="link"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=brasilhicaro&&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true">
   </a>
   <a>
