@@ -25,7 +25,7 @@
  
 <p align="left">
 
-## Tecnologias que possuo conhecimento:
+## Tecnologias em que possuo conhecimento:
 
 <div>
     <img align="center" alt = "java" src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
@@ -38,10 +38,10 @@
   <br/>
   <p>
     <a>
-    <img src="https://github-readme-stats.vercel.app/api?username=brasilhicaro&&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true" alt="Github Readme Stats" widht="250" height="180">
+    <img width="42%" src="link"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=brasilhicaro&&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true">
     </a>
     <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brasilhicaro&theme=noctis_minimus&layout=compact&langs_count=16" alt="Top Languages" widht="220" height="180">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brasilhicaro&theme=noctis_minimus&layout=compact&langs_count=16" alt="Top Languages">
     </a>
   </p>
 </details>
