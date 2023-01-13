@@ -35,8 +35,8 @@
   <summary>💻 GitHub Profile Stats</summary>
   <a href= "https://github.com/brasilhicaro">
 
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brasilhicaro&show_icons=true&theme=noctis_minimus&include_all_commits=true&count_private=true />
-  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brasilhicaro&layout=compact&langs_count=8&theme=noctis_minimus"/>
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brasilhicaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true />
+  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brasilhicaro&layout=compact&langs_count=8&theme=dark"/>
       
 </details>
 
