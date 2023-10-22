@@ -20,11 +20,11 @@
  
 <p align="left">
 
-## Tecnologias em que possuo conhecimento:
-
+## Technologies and tools:
 <div style="display: inline_block"><br>
   <img align="center" alt="hicaro-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="hicaro-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+  <img align="center" alt="hicaro-FastAPI" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg">
   <img align="center" alt="hicaro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="hicaro-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
   <img align="center" alt="hicaro-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
@@ -54,4 +54,4 @@
       
 </details>
 
-![Snake gif](https://github.com/brasilhicaro/brasilhicaro/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/brasilhicaro/brasilhicaro/blob/output/github-contribution-grid-snake.gif)
