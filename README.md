@@ -9,11 +9,11 @@
 <p>
   <img align="right" width="250" src="./img/programming.gif" />
 <a href="https://www.linkedin.com/in/hicaro-brasil-045548220/" alt="Linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-1C1C1C?style=for-the-badge&logo=Linkedin&logoColor=00FFFF&link=https://www.linkedin.com/in/hicaro-brasil-045548220/"/>
+  <img width="90" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/> 
 </a>
 <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=hicaro.brasil@academico.ifpb.edu.br" alt="Email" target="_blank">
 
-  <img src="https://img.shields.io/badge/Gmail-1C1C1C?style=for-the-badge&logo=gmail&logoColor=00FFFF&link=https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=hicaro.brasil@academico.ifpb.edu.br">
+<img src ="./img/gmail.svg" width="90" height= "50" />
 </a>
 </p>
 </div>
@@ -24,10 +24,15 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="hicaro-Py" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <img align="center" alt="hicaro-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
+  <img align="center" alt="hicaro-Flask" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg">
   <img align="center" alt="hicaro-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-   <img align="center" alt="hicaro-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="hicaro-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
+  <img align="center" alt="hicaro-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+  <img align="center" alt="hicaro-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+  <img align="center" alt="hicaro-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
+  <img align="center" alt="hicaro-Node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   <img align="center" alt="hicaro-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg">
+  <img align="center" alt="hicaro-redis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg">
   <img align="center" alt="hicaro-PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="hicaro-Firebase" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg">
   <img align="center" alt="hicaro-GCloud" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
@@ -43,9 +48,9 @@
   <summary>💻 GitHub Profile Stats</summary>
   <a href= "https://github.com/brasilhicaro">
 
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brasilhicaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=brasilhicaro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 
-  <img width="50%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brasilhicaro&layout=compact&langs_count=8&theme=dark"/>
+  <img width="45%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brasilhicaro&layout=compact&langs_count=8&theme=dark"/>
       
 </details>
 
