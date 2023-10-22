@@ -7,7 +7,7 @@
 
 ### :reminder_ribbon: Contact:
 <p>
-  <img align="right" width="250" src="./img/programming.gif" />
+  <img align="right" width="200" src="./img/programming-computer-frog.gif" />
 <a href="https://www.linkedin.com/in/hicaro-brasil-045548220/" alt="Linkedin" target="_blank">
   <img width="90" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/> 
 </a>
